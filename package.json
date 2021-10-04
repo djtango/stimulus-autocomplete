@@ -1,6 +1,6 @@
 {
   "name": "stimulus-autocomplete",
-  "version": "2.0.0",
+  "version": "2.1.0-djtango-5cd2f27.0",
   "description": "StimulusJS autocomplete component",
   "main": "dist/stimulus-autocomplete.js",
   "source": "src/index.mjs",
@@ -25,7 +25,7 @@
     "lodash.debounce": "^4.0.8"
   },
   "devDependencies": {
-    "microbundle": "^0.8.4"
+    "microbundle": "^0.13.3"
   },
   "peerDependencies": {
     "stimulus": ">=2.0.0 <3"
